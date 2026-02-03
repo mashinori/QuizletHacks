@@ -46,6 +46,7 @@
         body: JSON.stringify({ data }),
         method: 'POST'
     }).then(r => {
-        if (!r.ok) alert('they might\'ve fixed the cheat, open an issue @ https://github.com/VillainsRule/QuizletHacks');
+        if (r.ok) alert('done! double check the leaderboard...if its broken, open an issue @ https://github.com/VillainsRule/QuizletHacks');
+        else alert('quizlet reported an error...check the leaderboard, if it didn\'t add you, open an issue @ https://github.com/VillainsRule/QuizletHacks');
     });
 })();
