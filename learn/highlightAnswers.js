@@ -1,3 +1,5 @@
+// this is outdated - still works as of 07/07/2026 but use the highlightAnswersV2 for automated answers ---
+
 (() => setInterval(() => {
     const element = document.querySelector('article');
     if (!element) return;
