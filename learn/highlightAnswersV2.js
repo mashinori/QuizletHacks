@@ -1,3 +1,5 @@
+// this is newest (as of 07/07/2026) for automating quizlet - it automatically answers for you  ---
+
 (() => {
     const CONFIG = {
         autoClickMCQ: true,               // idek how long this took ---
