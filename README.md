@@ -1,7 +1,7 @@
 ## quizlethacks - (forked from VillainsRule/QuizletHacks).
 a few quizlet hacks to make you "cooler" than you already are!!
 
-status: 🟢 (working!- as of 07/07/2026)
+status: 🟢 (working! - as of 07/07/2026)
 
 pick a folder:
 - [blast](https://github.com/VillainsRule/QuizletHacks/tree/master/blast)
