@@ -12,5 +12,7 @@ then pick a hack and put it in the browser console!
 
 > [!NOTE]
 > if find any issues, open an [issue](https://github.com/mashinori/QuizletHacks/issues) if this is the case.
+
 > credits to: **VillainsRule** for developing this in the first place.
+
 > as of 07/07/2026, for the learn mode, use the highlightAnswersV2.js for automated answers, but if you want to not use automated answers use highlightAnswers.js **(not V2)**
