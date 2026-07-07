@@ -1,4 +1,4 @@
-(() => {
+(() => { 
     const setData = JSON.parse(__NEXT_DATA__.props.pageProps.dehydratedReduxStateKey);
     const cards = setData.studyModesCommon.studiableData.studiableItems;
 
